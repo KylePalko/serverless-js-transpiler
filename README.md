@@ -1,4 +1,4 @@
-# [WIP] Serverless JS Transpiler
+# WIP Serverless JS Transpiler
 [![npm version](https://badge.fury.io/js/serverless-js-transpiler.svg)](https://badge.fury.io/js/serverless-js-transpiler)
 
 Serverless plugin for transpiling JavaScript to ES2015/16/17. This plugin is currently WIP.
